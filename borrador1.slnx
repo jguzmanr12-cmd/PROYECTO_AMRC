@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="borrador1/borrador1.vcxproj" Id="46899895-68a2-45d5-8634-dff0bcb9ffab" />
+</Solution>
