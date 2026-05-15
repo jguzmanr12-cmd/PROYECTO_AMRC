@@ -130,7 +130,22 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="inicio.cpp" />
+    <ClCompile Include="alimentos.cpp" />
+    <ClCompile Include="analisis.cpp" />
+    <ClCompile Include="conexion.cpp" />
+    <ClCompile Include="historial.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="usuarios.cpp" />
+    <ClCompile Include="utilidades.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="alimentos.h" />
+    <ClInclude Include="analisis.h" />
+    <ClInclude Include="conexion.h" />
+    <ClInclude Include="estructuras.h" />
+    <ClInclude Include="historial.h" />
+    <ClInclude Include="usuarios.h" />
+    <ClInclude Include="utilidades.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
